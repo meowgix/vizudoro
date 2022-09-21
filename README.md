@@ -28,21 +28,18 @@ CODE TEXT GOES HERE
 
 ## ✏️ About
 
-This is a tool called [ToolName](https://toolwebsite) by [Author](https://authorpage).
+This is a web app called [Vizudoro](https://) by [meowgix](https://github.com/meowgix).
 
 ## 📥 Changelog
 
 > Version 0.0
 
 ```
-- [0000-00-00] Notes on update
+[2022-09-20] 
+    + Setting up README
 ```
 
 ## 📌 To Do
 
-- [x] Task 1 
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
-
-
+- [ ] Figure out a tech stack for this project
+- [ ] Write a project plan
